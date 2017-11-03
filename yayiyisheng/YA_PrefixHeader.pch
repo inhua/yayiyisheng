@@ -1,0 +1,23 @@
+//
+//  YA_PrefixHeader.pch
+//  yayiyisheng
+//
+//  Created by hxp on 17/6/1.
+//  Copyright © 2017年 achego. All rights reserved.
+//
+
+#ifndef YA_PrefixHeader_pch
+#define YA_PrefixHeader_pch
+#import"YAAPI.h"
+#import"YAKey.h"
+#import "YAColor.h"
+#import "UIImage+VR.h"
+
+#import "UIView+VR.h"
+#import "YAYITabBarController.h"
+#import <AFNetworking.h>
+#import "YAYINetWorking.h"
+#import <Masonry.h>
+
+
+#endif
